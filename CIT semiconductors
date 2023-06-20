@@ -1,0 +1,42 @@
+İLETKENLİĞİ SICAKLIKTAN     BAĞIMSIZ YARI-İLETKEN
+
+Proje Açıklaması :
+*Metallerin sıcaklık ile ters orantılı iletkenliğinin değişmesi ve yarı metallerin sıcaklık ile doğru orantılı olarak iletkenliğinin değişmesi bilgisini kullanarak metal- yarı metal alaşımı sonucu iletkenliği sıcaklıktan etkinlenmeyen bir iletken düşünüldü.
+*Bu alaşımın kablo için yeterli iletkenliğe sahip olmaması sonucu kablo için kullanılamacağına kanaat getirilmiş olup bunun yerine transistörler ve güneş panelleri üzerinde kullanılmasına yoğunlaşılmıştır.
+Sorulması Gereken Sorular :
+1-Sıradan transistörlere göre “Artı” ve “Eksi” leri nelerdir ?
+**Alaşımın yüksek sıcaklık sonucu erime ihtimali var.
+*Buna çözüm olarak etrafı erime noktası yüksek bir madde ile kaplanabilir.
+2-Daha önce yapıldı mı ? Yapıldı ise nasıl bir yöntemle Yapıldı?
+3-Maaliyeti ne kadar ?
+4-Güvenli mi ?
+5-Teori deneysel olarak işe yarıyor mu ?
+6-Transistör ne kadar dayanıklı ?
+7-Kullanacağın malzeme yeterli özelliklere(Erime noktası, İletkenlik vb…) sahip mi ? 
+
+Yapılan Ar-Ge Çalışmaları Ve Sonucu :
+1-Google üzerinden “iletkenliği sıcaklığı ile değişmeyen kablo” veya “cable whose conductivity does not change with temperature” başlığı altında yapılan aramalar sonucu proje fikrine benzer bir şey bulunamadı.
+2-Google üzerinden “semi metal-metal alloys” araması sonucu konu ile ilgili benzer içerikler bulunamadı.
+3-[3] sitesi okunup araştırılması sonucu yarı metal-metal alaşımının mümkün olduğu sonucuna varıldı.
+4-Bir takım araştırmalar sonucu halihazırda Ge-Si alaşımının var olduğu öğrenildi.
+5-Yapılan tetkikler sonucu var olan bir yarı metal-metal alaşımının kabloda kullanılması kararı alındı.
+6-https://www.researchgate.net/figure/Thermal-conductivity-of-CuSi-2-P-3-CuGe-2-P-3-and-CuGe-4-P-3_fig8_40908722 
+7-Yapılan araştırmalar sonucu farklı alaşımların iletkenlik karşılaştırmaları bulundu.
+8-Alaşımlar: Birden fazla çeşitli maden parçaları eritilmek suretiyle elde edilir. Madenlerin oksitlenmelerine engel olmak için kömür tozu ile örtülür ve toprak bir pota içerisinde eritilir. yapılır.[1]
+9-Yapılan araştırmalar sonucu bazı bakır alaşımlarının 1000C erime noktası olduğu ve diğer alaşımlarında öyle olması umulmaktadır.[4]
+10-CuGe2P3 alaşımının bakıra göre çok düşük iletkenliğe sahip olması sonucu başka yollar aranmaktadır.
+11-Yapılan araştırmalar sonucu yarı iletkenlerin “transistör, elektron tüpü, güneş panelleri elektronik cihazlar(telefon, tablet, bilgisayar vb…), bazı ev aletleri(ütü, tost makinesi vb…)” gibi cihazlarda kullanıldığı tespit edilmiştir.[5]
+12-Yarı-metal/metal alaşımlarının ısıl genleşme(thermal expansion) si hakkında veri bulunamamıştır bunun üzerine deney yapıp bazı deneysel veriler elde edilebilir.
+13-Transistörlerin araştırılması sonucu düşüncemize uygun olarak transistörlerin aşırı sıcaklık sonucu güç dengesini kaybetmesi sonucu yandığı kanısına varıldı. Bunun  Yarı-metal/metal alaşımı kullanılarak çözülebileceği düşünülüyor.[6]
+14-”cit semiconductor” transistörlerde kullanılabileceği gibi diyotlarda da kullanılabilir.[7]
+15-Transistör ve diyotların çalışma prensibi öğrenilidi.[7]
+
+
+
+
+Kaynakça:
+1-https://www.ferhatdokum.com.tr/Alasimlar_ve_Ozellikleri-7-tr-haber.html#:~:text=Ala%C5%9F%C4%B1mlar%3A%20Birden%20fazla%20%C3%A7e%C5%9Fitli%20maden,erimekte%20iken%20di%C4%9Feri%20ile%20kar%C4%B1%C5%9Ft%C4%B1r%C4%B1l%C4%B1r. 
+2-https://www.researchgate.net/figure/Thermal-conductivity-of-CuSi-2-P-3-CuGe-2-P-3-and-CuGe-4-P-3_fig8_40908722 
+3-https://en.m.wikipedia.org/wiki/Ferroboron
+4-https://www.americanelements.com/meltingpoint.html 
+5-https://prezi.com/lumwljpcgcqz/yari-iletkenlerin-kullanim-alanlari/?frame=3b664d59c0a0e684d09488faae33095e0f0565ec 
